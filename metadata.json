@@ -1,0 +1,6 @@
+{
+  "name": "Open Sovereign AI Control Platform",
+  "description": "Unified open-source operating and governance layer for enterprise AI: AI Control Tower (control plane) and Sovereign AI Platform (infrastructure/data plane) across Community, Enterprise, and Sovereign editions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
